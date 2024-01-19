@@ -3,6 +3,10 @@
 - Welcome to Create PR to fix bugs and Create issues to tell me more about anythings
 - The License is MIT
 
+# Version
+20240119 - first version, loop account item call PandoraNext to get access token
+
+# Setup Step
 1. clone project
    ```bash
    git clone https://github.com/leokwsw/PandoraNext-RefreshToken
