@@ -1,0 +1,10 @@
+.idea
+.venv
+venv
+# PandoraNext
+pandoranext/data/config.json
+pandoranext/data/tokens.json
+# Config
+config.yaml
+# account
+account.json

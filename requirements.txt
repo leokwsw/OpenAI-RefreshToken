@@ -1,0 +1,4 @@
+requests
+retry
+pyyaml
+pillow

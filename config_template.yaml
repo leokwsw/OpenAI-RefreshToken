@@ -1,0 +1,3 @@
+# PandoraNext api baseURL
+# including "proxy_api_prefix", e.g. http://{{bind}}/{{proxy_api_prefix}}/
+pandora_next_base_url: "http://localhost:8181/pandora0/"
